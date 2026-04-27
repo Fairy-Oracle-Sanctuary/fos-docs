@@ -1,79 +1,80 @@
-# 天机阁简章
+# Fairy Oracle Sanctuary (天机阁) Charter
 
-## 一、我们是谁？
+[中文](./docs/README/README_zh.md) | [日本語](./docs/README/README_ja.md) | [한국어](./docs/README/README_ko.md) | [Français](./docs/README/README_fr.md) | [Español](./docs/README/README_es.md) | [Português](./docs/README/README_pt.md) | [Deutsch](./docs/README/README_de.md) | [हिन्दी](./docs/README/README_hi.md)
 
-天机阁是一个以自由软件精神为内核、以开源协作为方式的开发者团体。  
-我们不隶属于任何商业公司、政治派别或意识形态阵营。我们只属于我们自己，以及我们共同相信的东西。
+## I. Who Are We?
 
-## 二、我们相信什么？
+Fairy Oracle Sanctuary is a developer collective with the spirit of free software at its core and open-source collaboration as its method.
 
-1. **代码应当自由**  
-   我们倾向于使用 GPL 或 AGPL 等 Copyleft 许可证，确保软件赋予用户自由，而非剥夺自由。
+We are not affiliated with any commercial corporation, political faction, or ideological camp. We belong only to ourselves and to what we collectively believe in.
 
-2. **人应当被尊重**  
-   无论贡献者是新手还是老手、来自哪个国家、说什么语言、肤色怎样、学历高低与否——在代码面前，我们只认代码本身。
+## II. What Do We Believe In?
 
-3. **善念是真实的**  
-   我们愿意把自己创造的东西分享给你，不设前提，不求回报。
+1.  **Code Should Be Free**
+    We prefer Copyleft licenses such as GPL or AGPL to ensure that software grants freedom to users rather than depriving them of it.
 
-4. **we hate hate**  
-   我们拒绝一切基于年龄、体型、残疾、种族、性别特征、性别认同和表达、经验水平、教育、社会经济地位、国籍、个人外貌、种族、宗教或性取向的仇恨言论。
+2.  **People Should Be Respected**
+    Whether a contributor is a novice or a veteran, from any country, speaking any language, of any skin color, or with any educational background—before the code, we only recognize the code itself.
 
-## 三、我们做什么？
+3.  **Goodwill Is Real**
+    We are willing to share what we create with you without prerequisites or expectations of anything in return.
 
-1. 做开源 / 自由软件项目：产出能运行、能解决问题、能帮助他人的代码。
-2. 互相托底：成员之间可以批评代码，但不攻击人；可以争论技术，但不上升立场；可以累了休息，但不嘲讽还在跑的人。
-3. 向外连接：愿意和其他开源团队、其他国家的开发者协作。
+4.  **We Hate Hate**
+    We reject all hate speech based on age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual orientation.
 
-## 四、我们能给你什么？
+## III. What Do We Do?
 
-1. 一个可以让不同的人为了相同的目标携手前进的地方
-2. 一个可以不用站队的地方
-3. 一个可以改变世界的地方
+1.  **Build Open Source / Free Software Projects**: Produce code that runs, solves problems, and helps others.
+2.  **Support Each Other**: Members may criticize code but not attack people; debate technology but not escalate to personal stances; rest when tired without being mocked by those still running.
+3.  **Connect Outward**: Collaborate with other open-source teams and developers from other countries.
 
-## 五、我们的协作方式是什么？
+## IV. What Can We Give You?
 
-1. **技术问题**：由技术能力最强、或在该领域投入最多的人主导决策，但需公开讨论。
-2. **方向问题**：由团队核心成员商议决定。所有人都可以提反对意见，但反对的同时需要提出替代方案。
-3. **如何加入**：原则上不设「申请通道」。新成员通过现有成员的引荐，在共同协作一段时间后，由团队共识决定。
-4. **如何退出**：累了就歇，歇好了回来。如果决定永久退出，把你维护的部分做好交接即可。不挽留，不指责。
-5. **如何对待分歧**：开 issue 讨论，无法达成一致时，可以 fork 分支各自尝试，用结果说话。
-6. **如何对待理念分歧**：回到核心价值观，如果依然无法调和，可以友好分家。世界很大，不一定要在一棵树上绑死。
+1.  A place where different people can walk together towards the same goal.
+2.  A place where you don't have to take sides.
+3.  A place where you can change the world.
 
-## 六、我们的分工是什么？
+## V. What Is Our Way of Collaboration?
 
-**阁主**  
-无。现在不会有，未来也不会有。权力不应被长期占有，方向应由共识驱动。
+1.  **Technical Issues**: Decisions are led by those with the most technical ability or who have invested the most in that area, but must be discussed publicly.
+2.  **Directional Issues**: Decided by core team members through consultation. Anyone can object, but must propose an alternative solution at the same time.
+3.  **How to Join**: In principle, there is no "application channel." New members are introduced by existing members and decided by team consensus after a period of collaboration.
+4.  **How to Exit**: Rest when tired, come back when ready. If you decide to exit permanently, just hand over the parts you maintain. No clinging, no blame.
+5.  **Handling Disagreements**: Open an issue for discussion. If consensus cannot be reached, fork the branch and try separately; let results speak.
+6.  **Handling Ideological Differences**: Return to core values. If still irreconcilable, a friendly parting is fine. The world is large; you don't have to be tied to one tree.
 
-**代理阁主（baby2016）**  
-负责最终决策、对外代表、把握方向、确保团队不偏离我们共同确认的价值观。代理阁主可以被罢免，也可以主动让贤。
+## VI. What Are Our Roles?
 
-**长老**  
-- 在团队中持续投入时间、获得信任、并且在某方面承担核心责任的成员。  
-- 参与团队重大决策（如是否接受某个大型贡献、是否改变许可证策略）。  
-- 在自己擅长的领域，拥有技术方向的决策权。  
-- 当代理阁主犯错时，长老有权提出反对；如果代理阁主犯下大错，全体长老可直接行使权力将其罢免。
+**Sanctuary Master**
+None. Not now, not ever. Power should not be occupied long-term; direction should be driven by consensus.
 
-**客卿**  
-偶尔贡献或不长期参与的朋友。他们是我们珍惜的缘分。
+**Acting Master (baby2016)**
+Responsible for final decisions, external representation, setting direction, and ensuring the team does not deviate from our shared values. The Acting Master can be removed or voluntarily step down.
 
-## 七、我们的底线是什么？
+**Elders**
+- Members who have invested time, gained trust, and taken on core responsibilities.
+- Participate in major team decisions (e.g., accepting large contributions, changing license policies).
+- Have decision-making power over technical direction in their area of expertise.
+- Have the right to object if the Acting Master makes a mistake; if a major error occurs, all Elders can collectively remove the Acting Master.
 
-严禁：
+**Guest Scholars**
+Friends who contribute occasionally or are not involved long-term. They are a precious connection to us.
 
-- 将团队代码或其衍生产品，以违反原许可证的方式闭源或据为己有。
-- 打着「天机阁」的名义进行违法活动或商业欺诈。
-- 在团队任何沟通渠道内，进行基于年龄、体型、残疾、种族、性别特征、性别认同和表达、经验水平、教育、社会经济地位、国籍、个人外貌、种族、宗教或性取向的仇恨言论（再次强调）。
+## VII. What Is Our Bottom Line?
 
-## 八、我们在追求什么？
+Strictly Prohibited:
+- Closing the source or claiming ownership of team code or its derivatives in violation of the original license.
+- Using the name "Fairy Oracle Sanctuary" for illegal activities or commercial fraud.
+- Engaging in hate speech in any team communication channel (re-emphasized).
 
-天机阁不追求规模，不追求融资，不追求被很多人知道。我们追求的是：
+## VIII. What Are We Pursuing?
 
-- 写出我们自己满意的、真正自由的软件或项目。
-- 证明：人可以因为共同的信念和善念，创造出对他人有价值的东西。
-- Connect The World——连接世界，连接每一个相信自由与善意的人。
+Fairy Oracle Sanctuary does not pursue scale, financing, or being known by many. What we pursue is:
+- Writing software or projects that we are satisfied with and that are truly free.
+- Proving that people can create things of value for others based on shared beliefs and goodwill.
+- **Connect The World**—connecting the world, connecting everyone who believes in freedom and kindness.
 
-## 九、我们的未来是什么？
+## IX. What Is Our Future?
 
-作为本文的编写者，老实说——我也不知道。  
-但我希望有一天，我们的成员能走出网络，在世界各地与同好相遇，写代码，然后大笑。
+As the author of this text, to be honest—I don't know either.
+But I hope that one day, our members can step out of the network, meet like-minded people around the world, write code, and then laugh.
