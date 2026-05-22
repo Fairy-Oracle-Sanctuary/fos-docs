@@ -4,7 +4,7 @@
 
 ## I. Who Are We?
 
-Fairy Oracle Sanctuary is a developer collective with the spirit of free software at its core and open-source collaboration as its method.
+Fairy Oracle Sanctuary is a developer collective with the spirit of free software at its core and open-source collaboration as its method, and also a Touhou Project fan circle.
 
 We are not affiliated with any commercial corporation, political faction, or ideological camp. We belong only to ourselves and to what we collectively believe in.
 
@@ -25,8 +25,9 @@ We are not affiliated with any commercial corporation, political faction, or ide
 ## III. What Do We Do?
 
 1.  **Build Open Source / Free Software Projects**: Produce code that runs, solves problems, and helps others.
-2.  **Support Each Other**: Members may criticize code but not attack people; debate technology but not escalate to personal stances; rest when tired without being mocked by those still running.
-3.  **Connect Outward**: Collaborate with other open-source teams and developers from other countries.
+2. **Serving the Touhou Community**: Building tools and platforms for the Touhou ecosystem.
+3.  **Support Each Other**: Members may criticize code but not attack people; debate technology but not escalate to personal stances; rest when tired without being mocked by those still running.
+4.  **Connect Outward**: Collaborate with other open-source teams and developers from other countries.
 
 ## IV. What Can We Give You?
 

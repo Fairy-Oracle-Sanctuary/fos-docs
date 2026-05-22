@@ -4,7 +4,7 @@
 
 ## I. Wer sind wir?
 
-Fairy Oracle Sanctuary ist ein Kollektiv von Entwicklern mit dem Geist freier Software als Kern und Open-Source-Zusammenarbeit als Methode.
+Fairy Oracle Sanctuary ist ein Kollektiv von Entwicklern mit dem Geist freier Software als Kern und Open-Source-Zusammenarbeit als Methode, und eine Fan-Gruppe des Oriental-Projekts.
 
 Wir sind keiner kommerziellen Firma, keiner politischen Fraktion und keinem ideologischen Lager angeschlossen. Wir gehören nur uns selbst und dem, was wir gemeinsam glauben.
 
@@ -25,8 +25,9 @@ Wir sind keiner kommerziellen Firma, keiner politischen Fraktion und keinem ideo
 ## III. Was tun wir?
 
 1. Open-Source-/Freie-Software-Projekte erstellen: Code produzieren, der läuft, Probleme löst und anderen hilft.
-2. Einander unterstützen: Mitglieder dürfen Code kritisieren, aber keine Personen angreifen; über Technik debattieren, aber nicht auf persönliche Haltungen eskalieren; sich ausruhen, wenn sie müde sind, ohne die zu verspotten, die noch laufen.
-3. Nach außen verbinden: Mit anderen Open-Source-Teams und Entwicklern aus anderen Ländern zusammenarbeiten.
+2. Der Oriental-Community dienen: relevante Tools und Plattformen für die Oriental-Community produzieren.
+3. Einander unterstützen: Mitglieder dürfen Code kritisieren, aber keine Personen angreifen; über Technik debattieren, aber nicht auf persönliche Haltungen eskalieren; sich ausruhen, wenn sie müde sind, ohne die zu verspotten, die noch laufen.
+4. Nach außen verbinden: Mit anderen Open-Source-Teams und Entwicklern aus anderen Ländern zusammenarbeiten.
 
 ## IV. Was können wir Ihnen bieten?
 
