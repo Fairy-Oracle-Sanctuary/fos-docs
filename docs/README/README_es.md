@@ -34,6 +34,8 @@ No estamos afiliados a ninguna empresa comercial, facción política o campo ide
 1. Un lugar donde personas diferentes pueden caminar juntas hacia un mismo objetivo.
 2. Un lugar donde no tienes que tomar partido.
 3. Un lugar donde puedes cambiar el mundo.
+4. **Recursos de despliegue**: El dominio Cloudflare del equipo puede usarse como recurso gratuito para desplegar sitios web estáticos.
+5. **Ayuda gratuita de despliegue**: El Maestro interino (baby2016) puede ayudar a desplegar sitios web dinámicos gratis.
 
 ## V. ¿Cuál es nuestra forma de colaborar?
 

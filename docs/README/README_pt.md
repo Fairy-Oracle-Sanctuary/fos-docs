@@ -34,6 +34,8 @@ Não somos afiliados a nenhuma empresa comercial, facção política ou campo id
 1. Um lugar onde pessoas diferentes podem caminhar juntas em direção ao mesmo objetivo.
 2. Um lugar onde você não precisa tomar partido.
 3. Um lugar onde você pode mudar o mundo.
+4. **Recursos de implantação**: O domínio Cloudflare da equipe pode ser usado como recurso gratuito para implantar sites estáticos.
+5. **Ajuda gratuita de implantação**: O Mestre interino (baby2016) pode ajudar a implantar sites dinâmicos gratuitamente.
 
 ## V. Qual é a nossa forma de colaborar?
 

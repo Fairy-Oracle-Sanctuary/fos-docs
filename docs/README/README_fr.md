@@ -34,6 +34,8 @@ Nous ne sommes affiliés à aucune entreprise commerciale, faction politique ou 
 1. Un lieu où des personnes différentes peuvent avancer ensemble vers un même objectif.
 2. Un lieu où vous n'avez pas à choisir votre camp.
 3. Un lieu où vous pouvez changer le monde.
+4. **Ressources de déploiement** : Le domaine Cloudflare de l'équipe peut être utilisé comme ressource gratuite pour déployer des sites web statiques.
+5. **Aide au déploiement gratuite** : Le Maître par intérim (baby2016) peut aider à déployer gratuitement des sites web dynamiques.
 
 ## V. Quelle est notre façon de collaborer ?
 

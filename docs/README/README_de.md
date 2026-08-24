@@ -34,6 +34,8 @@ Wir sind keiner kommerziellen Firma, keiner politischen Fraktion und keinem ideo
 1. Ein Ort, an dem unterschiedliche Menschen gemeinsam auf dasselbe Ziel zugehen können.
 2. Ein Ort, an dem Sie keine Partei ergreifen müssen.
 3. Ein Ort, an dem Sie die Welt verändern können.
+4. **Bereitstellungsressourcen**: Die Cloudflare-Domain des Teams kann als kostenlose Ressource für die Bereitstellung statischer Websites genutzt werden.
+5. **Kostenlose Bereitstellungshilfe**: Der kommissarische Meister (baby2016) kann kostenlos bei der Bereitstellung dynamischer Websites helfen.
 
 ## V. Wie arbeiten wir zusammen?
 
