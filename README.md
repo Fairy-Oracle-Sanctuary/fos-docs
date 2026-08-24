@@ -34,6 +34,8 @@ We are not affiliated with any commercial corporation, political faction, or ide
 1.  A place where different people can walk together towards the same goal.
 2.  A place where you don't have to take sides.
 3.  A place where you can change the world.
+4.  **Deployment Resources**: The team's Cloudflare domain can be used as a free resource for deploying static websites.
+5.  **Free Deployment Help**: The Acting Master (baby2016) can help you deploy dynamic websites for free.
 
 ## V. What Is Our Way of Collaboration?
 
